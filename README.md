@@ -1,16 +1,19 @@
-## Hi there 👋
+# Bartosz Malicki
 
-<!--
-**bmalickipl/bmalickipl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics and Telecommunications student @ Politechnika Łódzka (sem. 2)
 
-Here are some ideas to get you started:
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **C** - algorithmic programming, data structures (coursework + personal projects)
+- **Arduino / C++** - hardware prototyping, THT soldering
+- **Python** - basics
+
+## Currently
+
+- Building embedded systems fundamentals
+- Learning: pointers, memory management in C
+- Target path: Embedded systems engineering
+
+## Contact
+
+- Email: bmalickipl@icloud.com
