@@ -4,12 +4,12 @@ Electronics and Telecommunications student @ Politechnika Łódzka (sem. 2)
 
 ## Stack
 
-- **Python** - basics
+- **C** - basics
 
 ## Currently
 
-- Learning: Python basics
-- Target path: DevOps/FinTech
+- Learning: C fundamentals
+- Target path: Embedded Engineering
 
 ## Contact
 
