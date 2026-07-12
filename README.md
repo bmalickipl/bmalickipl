@@ -1,6 +1,6 @@
 # Bartosz Malicki
 
-Electronics and Telecommunications student @ Politechnika Łódzka (sem. 2)
+Electronics and Telecommunications student @ Politechnika Łódzka (II year)
 
 ## Stack
 
