@@ -4,12 +4,13 @@ Electronics and Telecommunications student @ Politechnika Łódzka (II year)
 
 ## Stack
 
-- **C** - basics
+- **C** - intermediate
+- **C++** - basics
 
 ## Currently
 
 - Learning: C fundamentals
-- Target path: Embedded Engineering
+- Target path: Embedded Systems Engineering
 
 ## Contact
 
