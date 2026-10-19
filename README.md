@@ -9,8 +9,7 @@ Electronics and Telecommunications student @ Politechnika Łódzka (II year)
 
 ## Currently
 
-- Learning: C 
-- Target path: Embedded Systems Engineering
+- Learning: 
 
 ## Contact
 
