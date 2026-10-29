@@ -9,7 +9,7 @@ Electronics and Telecommunications student @ Politechnika Łódzka (II year)
 
 ## Currently
 
-- Learning: C++
+- Learning: C/C++
 
 ## Contact
 
